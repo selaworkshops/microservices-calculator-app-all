@@ -1,4 +1,4 @@
-# microservices-calculator-app-all
+# Microservices Calculator App
 
 &nbsp;
 
